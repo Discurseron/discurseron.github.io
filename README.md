@@ -6,8 +6,8 @@
 - Content Creator
 
 ## Wohnort / Residence
-- Wien, Österreich
+- Wien, Österreich // Vienna, Austria
 
 ## Sprachen / Languages
-- Deutsch
-- English
+- Deutsch // German
+- Englisch // English

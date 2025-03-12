@@ -5,6 +5,9 @@
 - Metaverse Entrepreneur
 - Content Creator
 
+## Wohnort / Residence
+- Wien, Österreich
+
 ## Sprachen / Languages
 - Deutsch
 - English
